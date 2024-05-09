@@ -1,0 +1,9 @@
+node_modules
+
+build
+
+coverage
+
+.env
+
+SOLID-E-ASSUNTOS.MD
